@@ -112,11 +112,11 @@ url-shortener-server
 ├── config
 │   └── db.js            # MongoDB connection setup
 ├── controllers
-│   └── urlController.js # Business logic for URL operations
+│   └── controller.url.js # Business logic for URL operations
 ├── models
-│   └── urlModel.js      # Mongoose schema for URL data
+│   └── model.url.js      # Mongoose schema for URL data
 ├── routes
-│   └── urlRoutes.js     # API routes
+│   └── route.url.js     # API routes
 ├── .env                 # Environment variables
 ├── package.json         # Project metadata and dependencies
 └── index.js             # Entry point of the application
