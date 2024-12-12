@@ -29,8 +29,8 @@ Make sure you have the following installed on your system:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
-cd url-shortener-server
+git clone https://github.com/Pegasus1502/Url-shortner.git
+cd Url-shortener
 ```
 
 ### 2. Install Dependencies
