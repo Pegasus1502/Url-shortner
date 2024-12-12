@@ -83,7 +83,7 @@ By default, the server will run on `http://localhost:3000`.
 }
 ```
 
-**GET** `/shorten?originalUrl=https://example.com`
+**GET** `/<shortId>`
 
 #### Query Parameters:
 
